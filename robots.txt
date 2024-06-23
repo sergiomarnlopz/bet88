@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bet88.arxman.com/sitemap.xml
